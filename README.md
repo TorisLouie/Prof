@@ -26,7 +26,8 @@ We are a small software development consulting firm, specializing in transformin
 <p align="left">
   <a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm"> </a>
 </p>
-## 🌐 Connect with me:
+
+# 🌐 Connect with me:
 <p align="left">
 </p>
 <p align="left">
