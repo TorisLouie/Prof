@@ -13,12 +13,12 @@ We are a small software development consulting firm, specializing in transformin
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
   - 🔭 I’m currently working on <b> Fintech SaaS </b>  </br> 
-  - 🌱 I’m currently learning **Playwright, IBM Sterling, Machine Learning, & AI** </br> 
-  - 👯 I’m looking to collaborate on ** SaaS Projects ** </br> 
-  - 🤝 I’m looking for help with **UI/UX designs for my SaaS Projects** </br> 
-  - 💬 Ask me about **Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements** </br> 
-  - 📫 How to reach me **admin@saeztech.com** </br> 
-  - ⚡ Fun fact **I am an avid musician.** </br> </br> </br>
+  - 🌱 I’m currently learning <b> Playwright, IBM Sterling, Machine Learning, & AI</b> </br> 
+  - 👯 I’m looking to collaborate on <b> SaaS Projects </b> </br> 
+  - 🤝 I’m looking for help with <b> UI/UX designs for my SaaS Projects </b> </br> 
+  - 💬 Ask me about <b> Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements </b> </br> 
+  - 📫 How to reach me <b> admin@saeztech.com </b> </br> 
+  - ⚡ Fun fact <b> I am an avid musician.</b> </br> </br> </br>
 <b> Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence! </b> </br> </br>
 <p img align="right" alt="Coding" width="400" src="”>
 
