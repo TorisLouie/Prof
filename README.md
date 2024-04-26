@@ -19,7 +19,7 @@ We are a small software development consulting firm, specializing in transformin
   - 💬 Ask me about **Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements** </br> 
   - 📫 How to reach me **admin@saeztech.com** </br> 
   - ⚡ Fun fact **I am an avid musician.** </br> </br> </br>
-<b> Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence! </b></br>
+<b> Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence! </b> </br> </br>
 <p img align="center" alt="Coding" width="400" src="”>
   <p align="left">
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="600" height="250" />
