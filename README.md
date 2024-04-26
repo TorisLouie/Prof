@@ -12,21 +12,26 @@ We are a small software development consulting firm, specializing in transformin
 - Manual and Automated Testing Excellence </br> </br> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
-  - 🔭 I’m currently working on **Fintech SaaS** </br> 
+  - 🔭 I’m currently working on <b> Fintech SaaS </b>  </br> 
   - 🌱 I’m currently learning **Playwright, IBM Sterling, Machine Learning, & AI** </br> 
-  - 👯 I’m looking to collaborate on **SaaS Projects** </br> 
+  - 👯 I’m looking to collaborate on ** SaaS Projects ** </br> 
   - 🤝 I’m looking for help with **UI/UX designs for my SaaS Projects** </br> 
   - 💬 Ask me about **Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements** </br> 
   - 📫 How to reach me **admin@saeztech.com** </br> 
   - ⚡ Fun fact **I am an avid musician.** </br> </br> </br>
 <b> Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence! </b> </br> </br>
-<p img align="center" alt="Coding" width="400" src="”>
-  <p align="left">
-  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="600" height="250" />
+<p img align="right" alt="Coding" width="400" src="”>
+
+
+<p align="left">
+  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="480" height="360" />
 </p>
 <p align="left">
   <a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm"> </a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
 
 ## 🌐 Connect with me:
 <p align="left">
