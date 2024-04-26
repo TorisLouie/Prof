@@ -3,7 +3,7 @@
 <b> Welcome to SZ Tech - Your Partner in Software Excellence! </b>
 We are a small software development consulting firm, specializing in transforming ideas into innovative solutions. With a focus on the complete SDLC, our team navigates changes and challenges, ensuring a comprehensive understanding of your operations and aspirations. 
 
-### Services We Offer: 
+### ⚡ Services We Offer: 
 - Expert Business Analysis 
 - Strategic Technological Innovation 
 - Keen Solution Architecture
@@ -21,7 +21,7 @@ We are a small software development consulting firm, specializing in transformin
   - ⚡ Fun fact **I am an avid musician.** </br> 
 <p img align="center" alt="Coding" width="400" src="”>
   <p align="left">
-  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="500" height="130" />
+  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Your Giphy Description" width="600" height="250" />
 </p>
 <p align="left">
   <a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm"> </a>
