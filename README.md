@@ -17,7 +17,7 @@ We are a small software development consulting firm, specializing in transformin
   - 👯 I’m looking to collaborate on <b> SaaS Projects </b> </br> 
   - 🤝 I’m looking for help with <b> UI/UX designs for my SaaS Projects </b> </br> 
   - 💬 Ask me about <b> Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements </b> </br> 
-  - 📫 How to reach me <b> admin@saeztech.com </b> </br> 
+  - 📫 How to reach me <b>  </b> </br> 
   - ⚡ Fun fact <b> I am an avid musician.</b> </br> </br> </br>
 <b> Explore our GitHub repository to discover the projects and tools that showcase our commitment to quality, efficiency, and transformative software solutions. Partner with us for a journey into the future of software excellence! </b> </br> </br>
 <p img align="right" alt="Coding" width="400" src="”>
@@ -31,13 +31,12 @@ We are a small software development consulting firm, specializing in transformin
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
 
 ## 🌐 Connect with me:
 <p align="left">
 </p>
 <p align="left">
-<a href="https://linkedin.com/in/sztech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sztech" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sztech" height="30" width="40" /></a>
 </p>
 
 ## 💻 Languages and Tools:
