@@ -12,10 +12,10 @@ We are a small software development consulting firm, specializing in transformin
 - Manual and Automated Testing Excellence </br> </br> 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sztekk&label=Profile%20views&color=0e75b6&style=flat" alt="sztekk" /> </p>
-  - 🔭 I’m currently working on <b> Fintech SaaS </b>  </br> 
+  - 🔭 I’m currently working on <b>  </b>  </br> 
   - 🌱 I’m currently learning <b> Playwright, IBM Sterling, Machine Learning, & AI</b> </br> 
   - 👯 I’m looking to collaborate on <b> SaaS Projects </b> </br> 
-  - 🤝 I’m looking for help with <b> UI/UX designs for my SaaS Projects </b> </br> 
+  - 🤝 I’m looking for help with <b> UI/UX  </b> </br> 
   - 💬 Ask me about <b> Cypress, Selenium, EDI, API, Python, XML, JSON, Requirements </b> </br> 
   - 📫 How to reach me <b>  </b> </br> 
   - ⚡ Fun fact <b> I am an avid musician.</b> </br> </br> </br>
